@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="47336" started-at="2019-09-25T14:11:55Z" finished-at="2019-09-25T14:12:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="47336" started-at="2019-09-25T14:11:55Z" finished-at="2019-09-25T14:12:42Z">
+      <class name="com.qa.test.TestClass">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.test.TestClass@59fa1d9b]" name="setUp" is-config="true" duration-ms="10482" started-at="2019-09-25T19:41:55Z" finished-at="2019-09-25T19:42:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test()[pri:1, instance:com.qa.test.TestClass@59fa1d9b]" name="test" duration-ms="3058" started-at="2019-09-25T19:42:05Z" finished-at="2019-09-25T19:42:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.test.TestClass@59fa1d9b]" name="tearDown" is-config="true" duration-ms="1104" started-at="2019-09-25T19:42:08Z" finished-at="2019-09-25T19:42:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.test.TestClass@59fa1d9b]" name="setUp" is-config="true" duration-ms="7474" started-at="2019-09-25T19:42:09Z" finished-at="2019-09-25T19:42:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test2()[pri:2, instance:com.qa.test.TestClass@59fa1d9b]" name="test2" duration-ms="24133" started-at="2019-09-25T19:42:17Z" finished-at="2019-09-25T19:42:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.test.TestClass@59fa1d9b]" name="tearDown" is-config="true" duration-ms="1048" started-at="2019-09-25T19:42:41Z" finished-at="2019-09-25T19:42:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.test.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
